@@ -2,11 +2,11 @@
   
 # 👋 Olá! Sou **Gustavo D. França**
 
-### Engenheiro Elétrico | Desenvolvedor | Entusiasta de Tecnologia
+### Estudante de Engenharia Elétrica | Entusiasta de Tecnologia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gudfranca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-denardi-frança/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gudfranca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavodfranca27@gmail.com)
 
 ---
 
@@ -14,16 +14,8 @@
 
 ## 🎓 Sobre Mim
 
-Sou **Engenheiro Elétrico** apaixonado por tecnologia, inovação e solução de problemas complexos. Com uma base sólida em teoria de circuitos, sistemas de potência e eletrônica, combino conhecimentos tradicionais de engenharia com programação moderna.
+Sou Estudante de Engenharia Elétrica na UFSC, apaixonado por tecnologia, inovação e solução de problemas complexos. 
 
-```
-🔧 Especialidades:
-├── Eletrônica e Circuitos
-├── Sistemas Embarcados
-├── Automação e Controle
-├── Programação para Hardware
-└── IoT e Sistemas Inteligentes
-```
 
 ---
 
@@ -45,8 +37,6 @@ Sou **Engenheiro Elétrico** apaixonado por tecnologia, inovação e solução d
 ### Ferramentas & Software
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![PROTEUS](https://img.shields.io/badge/Proteus-FFB81C?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-DC143C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -66,64 +56,22 @@ Sou **Engenheiro Elétrico** apaixonado por tecnologia, inovação e solução d
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔌 Sistemas Embarcados
-- Desenvolvimento de firmware para microcontroladores
-- Implementação de protocolos de comunicação (UART, I2C, SPI)
-- Sistemas de controle em tempo real
-
-### ⚡ Eletrônica e Circuitos
-- Projetos de condicionamento de sinais
-- Design de fontes de alimentação
-- Análise e simulação de circuitos
-
-### 🤖 Automação e IoT
-- Sistemas automatizados com Arduino e Raspberry Pi
-- Aplicações IoT conectadas
-- Aquisição e processamento de dados
-
----
-
 ## 📚 Áreas de Interesse
 
 ```
 Engenharia Elétrica:
 ├─ Eletrônica de Potência
-├─ Sistemas de Energia Renovável
-├─ Automação Industrial
-├─ Compatibilidade Eletromagnética (EMC)
-└─ Sistemas Embarcados
+├─ Sistemas de Potência
 
-Desenvolvimento:
-├─ Programação Embarcada
-├─ Desenvolvimento Full-Stack
-├─ Ciência de Dados
-└─ Machine Learning
 ```
-
 ---
 
 ## 🎯 Objetivos
 
-- 🔍 Aprofundar conhecimentos em sistemas de potência e energias renováveis
+- 🔍 Aprofundar conhecimentos em sistemas de potência
 - 💡 Desenvolver soluções inovadoras que conectem engenharia e tecnologia
 - 🤝 Colaborar em projetos de código aberto
 - 📖 Compartilhar conhecimento com a comunidade
-
----
-
-## 📫 Como Entrar em Contato
-
-Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia!
-
-<div align="center">
-
-- 📧 Email: [seu.email@example.com](mailto:seu.email@example.com)
-- 💼 LinkedIn: [@gudfranca](https://linkedin.com/in/gudfranca)
-- 💻 GitHub: [@gudfranca](https://github.com/gudfranca)
-
-</div>
 
 ---
 
